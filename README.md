@@ -8,17 +8,17 @@ Beyond my work in the lab and clinic, I’m a passionate adventurer with a love 
 
 - **DPhil in Psychiatry**  
   **University of Oxford, UK**  
-  *Part time, September 2023 - Present*  
+  *Part time, October 2024 - Present*  
   Pursuing a doctoral degree focusing on advanced research in psychiatry, integrating knowledge from clinical neuroscience and psychology. This program allows for an in-depth exploration of psychiatric disorders through clinical and basic science research, contributing to innovative treatment approaches.
 
 - **Clinical Psychology, DClinPsych**  
   **University of Oxford, UK**  
-  *Full time, September 2020 - June 2023*  
+  *Full time, October 2020 - June 2023*  
   Completed a professional doctorate in Clinical Psychology, emphasizing the application of psychological theory to clinical practice. This program provided comprehensive training in clinical assessment, diagnosis, and therapeutic interventions, with a strong focus on evidence-based practices in mental health care.
 
 - **MSc in Psychological Research**  
   **University of Oxford, UK**  
-  *Full time, September 2019 - June 2020*  
+  *Full time, October 2019 - June 2020*  
   A rigorous research-focused master's degree that equipped me with advanced skills in experimental design, data analysis, and critical evaluation of psychological research. This program laid the groundwork for my subsequent studies in clinical psychology and psychiatry.
 
 - **Undergraduate Medicine**  
@@ -28,11 +28,6 @@ Beyond my work in the lab and clinic, I’m a passionate adventurer with a love 
 
 ### Work Experience
 
-- **Clinical Research Associate**  
-  **Nuffield Department of Medicine, University of Oxford**  
-  *Part time, September 2023 - Present*  
-  Engaging in clinical research alongside my DPhil studies, focusing on neuropsychiatric disorders. My role involves utilizing computational methods, including machine learning, to analyze complex datasets, furthering the integration of clinical research with computer science.
-
 - **Clinical Psychologist**  
   **Oxford Health NHS Foundation Trust**  
   *July 2023 - Present*  
@@ -40,7 +35,7 @@ Beyond my work in the lab and clinic, I’m a passionate adventurer with a love 
 
 - **Assistant Clinical Psychologist**  
   **Oxford Health NHS Foundation Trust**  
-  *Full time, September 2020 - June 2023*  
+  *Full time, October 2020 - June 2023*  
   Provided psychological assessments and interventions under the supervision of licensed clinical psychologists. Worked with diverse patient populations, including those with mood disorders, anxiety, and neurodevelopmental conditions. This experience was instrumental in honing my clinical skills and understanding the practical application of psychological research.
 
 - **Research Assistant in Computational Psychiatry**  
