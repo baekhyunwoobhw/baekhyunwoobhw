@@ -6,11 +6,6 @@ Beyond my work in the lab and clinic, I’m a passionate adventurer with a love 
 
 ### Academic Background
 
-- **DPhil in Psychiatry**  
-  **University of Oxford, UK**  
-  *Part time, October 2024 - Present*  
-  Pursuing a doctoral degree focusing on advanced research in psychiatry, integrating knowledge from clinical neuroscience and psychology. This program allows for an in-depth exploration of psychiatric disorders through clinical and basic science research, contributing to innovative treatment approaches.
-
 - **Clinical Psychology, DClinPsych**  
   **University of Oxford, UK**  
   *Full time, October 2020 - June 2023*  
@@ -30,7 +25,7 @@ Beyond my work in the lab and clinic, I’m a passionate adventurer with a love 
 
 - **Clinical Psychologist**  
   **Oxford Health NHS Foundation Trust**  
-  *July 2023 - Present*  
+  *July 2023 - June 2024*  
   Working as a clinical psychologist, providing psychological assessments and interventions across various settings. This role involves applying my clinical training to real-world cases, with an emphasis on evidence-based practices.
 
 - **Assistant Clinical Psychologist**  
