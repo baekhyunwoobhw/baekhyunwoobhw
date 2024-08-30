@@ -8,7 +8,7 @@ Beyond my work in the lab and clinic, I’m a passionate adventurer with a love 
 
 - **Clinical Psychology, DClinPsych**  
   **University of Oxford, UK**  
-  *Full time, October 2020 - June 2023*  
+  *Full time, September 2020 - December 2022*  
   Completed a professional doctorate in Clinical Psychology, emphasizing the application of psychological theory to clinical practice. This program provided comprehensive training in clinical assessment, diagnosis, and therapeutic interventions, with a strong focus on evidence-based practices in mental health care.
 
 - **MSc in Psychological Research**  
@@ -25,19 +25,22 @@ Beyond my work in the lab and clinic, I’m a passionate adventurer with a love 
 
 - **Clinical Psychologist**  
   **Oxford Health NHS Foundation Trust**  
-  *July 2023 - June 2024*  
+  *June 2022 - December 2022*  
   Working as a clinical psychologist, providing psychological assessments and interventions across various settings. This role involves applying my clinical training to real-world cases, with an emphasis on evidence-based practices.
 
 - **Assistant Clinical Psychologist**  
   **Oxford Health NHS Foundation Trust**  
-  *Full time, October 2020 - June 2023*  
+  *October 2020 - June 2022*  
   Provided psychological assessments and interventions under the supervision of licensed clinical psychologists. Worked with diverse patient populations, including those with mood disorders, anxiety, and neurodevelopmental conditions. This experience was instrumental in honing my clinical skills and understanding the practical application of psychological research.
 
 - **Research Assistant in Computational Psychiatry**  
   **University of Oxford**  
-  *Full time, July 2019 - September 2020*  
+  *July 2019 - September 2020*  
   Engaged in research projects combining psychiatry with computational approaches, using algorithms and data modeling to gain insights into psychiatric conditions. This role solidified my interest in the intersection of psychology, psychiatry, and computer science, laying the foundation for my current research focus. 
 
+
+### Military Service
+*December 5, 2022 - August 5, 2024*
 
 ### Interests
 
