@@ -6,6 +6,11 @@ Beyond my work in the lab and clinic, I’m a passionate adventurer with a love 
 
 ### Academic Background
 
+- **DPhil in Psychiatry**  
+  **University of Oxford, UK**  
+  *Part time, October 2024 - Present*  
+  Pursuing a doctoral degree focusing on advanced research in psychiatry, integrating knowledge from clinical neuroscience and psychology. This program allows for an in-depth exploration of psychiatric disorders through clinical and basic science research, contributing to innovative treatment approa
+
 - **Clinical Psychology, DClinPsych**  
   **University of Oxford, UK**  
   *Full time, September 2020 - December 2022*  
