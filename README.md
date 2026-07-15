@@ -65,10 +65,10 @@ Beyond the ocean and my community work, I am an adventurer at heart. The thrill 
 
 ### Interests
 
-When I'm not immersed in my studies or research, I find my escape and rejuvenation in the thrill of outdoor adventures. Whether it's the freedom of the open road on my motorcycle, the challenge of scaling a new climbing route, or the serenity of camping under the stars, I’m always seeking new experiences in nature. Motorcycling gives me a sense of liberation and connection with the environment, while climbing pushes my physical and mental limits, demanding focus and resilience. Camping, on the other hand, offers a peaceful retreat, where I can unwind, reflect, and appreciate the simplicity of life in the wilderness. These activities not only provide a balance to my academic pursuits but also fuel my passion for exploration and personal growth.-->
+When I'm not immersed in my studies or research, I find my escape and rejuvenation in the thrill of outdoor adventures. Whether it's the freedom of the open road on my motorcycle, the challenge of scaling a new climbing route, or the serenity of camping under the stars, I’m always seeking new experiences in nature. Motorcycling gives me a sense of liberation and connection with the environment, while climbing pushes my physical and mental limits, demanding focus and resilience. Camping, on the other hand, offers a peaceful retreat, where I can unwind, reflect, and appreciate the simplicity of life in the wilderness. These activities not only provide a balance to my academic pursuits but also fuel my passion for exploration and personal growth.
 # Hi there, I'm Baek Hyun Woo! 👋
 
-### 🌊 From Oxford Psychiatry to Jeju's Oceans | 🏔️ 7 Summits Down | 
+### 🌊 From Oxford Psychiatry to Jeju's Oceans | 🏔️ 7 Summits Down
 
 I started my academic journey with a deeply personal mission: to understand and support my sister, who has dyslexia. This drive took me all the way to the **University of Oxford**, where I completed degrees in Medicine and Clinical Psychology. However, while pursuing my DPhil (PhD) in Psychiatry, I realized that textbook theories couldn't fully capture the depth of human psychology or cure human suffering. 
 
@@ -122,7 +122,7 @@ I bridge the gap between human behavior, community building, and technology. Cur
 - Served from **December 5, 2022 to August 5, 2024**.
 
 ---
--->
+
 
 ## 🏍️ Beyond the Keyboard & Ocean
 
@@ -135,4 +135,29 @@ When I need to recharge my mind, you will find me pushing my limits in nature:
 
 <p align="center">
   <i>"Real understanding isn't found in books; it's lived in the real world."</i>
-</p>
+</p>-->
+
+
+# Hello! I'm Baek Hyun Woo.
+
+I was born and raised on Jeju Island, South Korea, in a family of **haenyeo**. Growing up, I always dreamed of leaving.
+
+So I did.
+
+I lived in Seoul, experienced different cultures, traveled, and spent years trying to understand how people think, learn, and grow. Along the way, I realized that leaving home taught me something unexpected: sometimes you have to see the world before you can truly appreciate where you came from.
+
+Today, I'm back on Jeju—not because I had to, but because I chose to.
+
+My younger sister has dyslexia, and watching her navigate an education system that often misunderstands different ways of learning changed the direction of my life. It made me question how we define intelligence, why so many children struggle to fit into systems that weren't designed for them, and what we can do to change that.
+
+Later, living in Seoul showed me another side of the same problem. Children grow up in an environment shaped by intense competition and constant comparison. Academic achievement is celebrated, but emotional well-being is often overlooked. I believe every child deserves support, understanding, and the opportunity to grow with confidence—regardless of how they learn.
+
+Today I continue learning independently through books, software development, and research. I'm particularly interested in how artificial intelligence is influencing human cognition, learning, memory, and decision-making, and how these technologies can be used responsibly to support education rather than simply automate it.
+
+My long-term goal is to build technology, educational tools, and communities that help elementary, middle, and high school students thrive—not only academically, but emotionally. I hope to create opportunities for children who think and learn differently, especially those like my sister, whose potential is too often overlooked.
+
+Outside of my work, you'll usually find me on a motorcycle, underwater, or in the mountains. I've climbed the Seven Summits, explored different parts of the world, and eventually found my way back home. Those experiences taught me that meaningful progress is rarely about reaching the highest point—it's about understanding people, staying curious, and continuing to learn.
+
+I'm still exploring, still building, and still learning.
+
+> Building technology that helps children learn, grow, and believe in themselves.
